@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="/Cover.png" alt="cover" style="width: 100%; max-width: 100%;" />
+  <img src="/Cover.png" alt="cover"/>
 </div>
 
 # Hi there 👋
