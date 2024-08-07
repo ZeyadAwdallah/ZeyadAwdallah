@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="/cover.png" alt="cover"/>
+  <img src="/2.gif" alt="cover"/>
 </div>
 
 # Hi there 👋
