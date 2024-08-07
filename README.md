@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="/Cover.png" alt="cover"/>
+</div>
 # Hi there 👋
 
 Welcome to my GitHub profile!
