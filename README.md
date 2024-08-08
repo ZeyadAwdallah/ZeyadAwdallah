@@ -35,13 +35,6 @@ Here are some of the tools and technologies I'm proficient with:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 📜 **About Me**
-I'm **Zeyad Awdallah**, a 21-year-old Computer Science student deeply passionate about technology, anime, and software development. I’m constantly exploring new technologies and building projects that challenge my abilities.
-
- **Full Stack Aspirant:** My goal is to become a proficient full stack developer, with skills spanning across frontend, backend, and cloud technologies.
- 
----
 ## 📫 **How to Reach Me**
 
 If you’d like to connect with me, feel free to reach out via email or through my social media profiles. I’m always open to discussing new opportunities, collaborations, or just chatting about tech and anime!
