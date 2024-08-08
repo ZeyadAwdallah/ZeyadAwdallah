@@ -1,5 +1,7 @@
 <div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="/11.gif" alt="cover" width=10000/>
+  </a>
 </div>
 
 # Hi there 👋
@@ -19,6 +21,3 @@ He/Him
 - I enjoy exploring new technologies and learning new programming languages.
 - I love solving complex problems and building solutions that make a difference.
 ---
-<div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=Te8iqUuHrGuUJ5dW&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
